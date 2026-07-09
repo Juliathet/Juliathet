@@ -4,7 +4,7 @@ I enjoy building practical projects that connect real business needs with techno
 
 ## About Me
 
-- 🎓 Fresh ICT Grduate student at Rangsit University International College (GPA-3.83)
+- 🎓 Fresh ICT graduate from Rangsit University International College (GPA: 3.83)
 - 💻 Interested in Backend Development, AI Integration, and Cloud Engineering
 - 🛠️ Working with Python, Django, JavaScript, React, Supabase, PostgreSQL, Digital Ocean and Docker
 - 🤖 Exploring AI APIs, automation tools, and real-world AI product features
