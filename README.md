@@ -5,6 +5,4 @@ I enjoy building practical projects that connect real business needs with techno
 
 ## Connect With Me
 
-- Portfolio: https://khaingzinthet.net/
-- GitHub: @Juliathet
 - Linkedin: https://www.linkedin.com/in/khaingzinthet00/
