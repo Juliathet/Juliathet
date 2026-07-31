@@ -6,3 +6,4 @@ I enjoy building practical projects that connect real business needs with techno
 ## Connect With Me
 
 - Linkedin: https://www.linkedin.com/in/khaingzinthet00/
+- Email: khinezinthet00@gmail.com
